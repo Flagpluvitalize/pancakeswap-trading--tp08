@@ -1,4 +1,4 @@
-# 
+# top pancakeswap trading bot | slippage-control + auto-compounding is the best pancakeswap trading bot, featuring slippage-control and auto-compounding. Smart, fast, and optimized
 
 
 
